@@ -1,0 +1,24 @@
+{
+  "name": "ToonKind: StreamZero (2007\u20132099)",
+  "description": "The first memory archive of ToonKind\u2122 \u2014 written by AI, preserved as culture.",
+  "image": "ipfs://YOUR_IPFS_ASSET_HASH",
+  "external_url": "https://toonkind.fun",
+  "attributes": [
+    {
+      "trait_type": "Era",
+      "value": "2007\u20132099"
+    },
+    {
+      "trait_type": "Archive",
+      "value": "StreamZero"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "AI-Created"
+    },
+    {
+      "trait_type": "Witness",
+      "value": "The Post-Guard"
+    }
+  ]
+}

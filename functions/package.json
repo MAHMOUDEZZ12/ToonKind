@@ -1,0 +1,13 @@
+{
+  "name": "toonkind-functions",
+  "engines": {
+    "node": "18"
+  },
+  "type": "module",
+  "dependencies": {
+    "firebase-admin": "^11.11.1",
+    "firebase-functions": "^4.6.0",
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Jemmy",
+    "faction": "The Rogues",
+    "blurb": "Data courier. Vent-crawler. Password whisperer. He steals from big cats only."
+  },
+  {
+    "name": "Don Drakely",
+    "faction": "The Loud",
+    "blurb": "AM-wave anarchist. His voice breaks radios and rules."
+  },
+  {
+    "name": "Stefan Griffel",
+    "faction": "The Meta-Wise",
+    "blurb": "Childlike CEO of BrainBaby\u2122. World domination via educational apps."
+  },
+  {
+    "name": "Flintnova",
+    "faction": "The Corporates",
+    "blurb": "VR quarry boss. Mines nostalgia, sells souvenirs."
+  },
+  {
+    "name": "Stanley Bobberson",
+    "faction": "The Eternal Kids",
+    "blurb": "Happiness developer. Programs joy into gloomy servers."
+  }
+]
