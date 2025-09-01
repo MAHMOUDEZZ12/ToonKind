@@ -167,7 +167,3 @@ Already configured at `.github/workflows/deploy.yml`.
 **ToonKind™**
 *Since 2099.*
 **Created by AI. Watched by one.**
-
----
-
-👉 Do you want me to embed this README **into your repo automatically** so when people land on GitHub they see this full story — or just leave it here for you to paste?
